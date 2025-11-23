@@ -1,0 +1,342 @@
+[
+  {
+    "id": 1,
+    "name": "APPLE FRENCH TOAST",
+    "image": "/images/applefrenchtoast.jpeg",
+    "ingredients": [
+      "BRIOCHE TOSTADINHO",
+      "MAÇÃ CARAMELIZADA",
+      "GANACHE DE BAUNILHA",
+      "CALDA DE CARAMELO",
+      "CRUMBLE"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "ALMERIA",
+    "image": "/images/almeria.jpeg",
+    "ingredients": [
+      "JAMON",
+      "QUEIJO BRIE",
+      "PICLES DE PEPINO",
+      "MAIONESE DE MOSTARDA E MEL",
+      "RÚCULA"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "CUSCUZ DO CASA",
+    "image": "/images/cuscuzdocasa.jpeg",
+    "ingredients": [
+      "CUSCUZ DE MILHO",
+      "OVOS MEXIDOS",
+      "BACON",
+      "CHUVA DE PARMESÃO"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "AVOTOAST",
+    "image": "/images/avotoast.jpeg",
+    "ingredients": [
+      "FATIA DE PÃO LEVAIN",
+      "CREME DE ABOCADO",
+      "OVO POCHÉ",
+      "BACON",
+      "PICLES DE CEBOLA ROXA"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "CROQUE MONSIEUR",
+    "image": "/images/croquemonsieur.jpeg",
+    "ingredients": [
+      "PÃO LEVAIN",
+      "PRESUNTO ROYAL",
+      "GRUYERE",
+      "PARMESÃO",
+      "MOLHO BECHAMEL",
+      "MOSTARDA DIJON"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "CROQUE MADAME",
+    "image": "/images/croquemadame.jpeg",
+    "ingredients": [
+      "PÃO LEVAIN",
+      "PRESUNTO ROYAL",
+      "GRUYERE",
+      "PARMESÃO",
+      "MOLHO BECHAMEL",
+      "MOSTARDA DIJON",
+      "OVO COM GEMA MOLE"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "DESAYUNO",
+    "image": "/images/desayuno.jpeg",
+    "ingredients": [
+      "OVOS MECIDOS CREMOSOS",
+      "FATIA DE BOLO DO DIA",
+      "SALADA DE FRUTAS COM IOGURTE",
+      "GRANOLA DA CASA",
+      "GARRAFA DE CAFÉ COADO"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "ESPANHOLA",
+    "image": "/images/espanhola.jpeg",
+    "ingredients": [
+      "JAMÓN",
+      "COALHADA SECA",
+      "GELEIA DE MORANGO",
+      "LASCAS DE PARMESÃO",
+      "MORANGO"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "BONJOUR",
+    "image": "/images/bonjour.jpeg",
+    "ingredients": [
+      "PÃO NA CHAPA CREMOSO",
+      "PARFAIT DE IOGURTE COM BANANA",
+      "GRANOLA E MEL",
+      "GARRAFA DE CAFÉ COADO"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "EGGS BACON",
+    "image": "/images/eggsbacon.jpeg",
+    "ingredients": [
+      "CROISSANT",
+      "2 OVOS ESTALADOS COM GEMA MOLE",
+      "2 FATIAS DE BACON"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "SALADA GRAVLAX",
+    "image": "/images/saladagravlax.jpeg",
+    "ingredients": [
+      "MIX DE FOLHAS",
+      "SALMÃO GRAVLAX",
+      "PICLES DE BETERRABA",
+      "MOLHO TZATZIKI",
+      "TOMATE CEREJA",
+      "ABACATE"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "SALADA DE FRUTAS",
+    "image": "/images/saladadefrutas.jpeg",
+    "ingredients": [
+      "FRUTAS DO DIA",
+      "GRANOLA DA CASA",
+      "IOGURTE NATURAL"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "VEGAN BOWL",
+    "image": "/images/veganbowl.jpeg",
+    "ingredients": [
+      "COGUMELOS",
+      "HOMUS",
+      "CAPONATA DE BERINGELA",
+      "TOMATE CEREJA",
+      "FATIAS PÃO LEVAIN"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "SANDUÍCHE MORTADELA",
+    "image": "/images/sanduichemortadela.jpeg",
+    "ingredients": [
+      "FOCACCIA",
+      "MORTADELA ITALIANA",
+      "MUÇARELA DE BÚFALA",
+      "PESTO DE MANJERICÃO",
+      "COALHADA"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "SALMÃO BOWL",
+    "image": "/images/salmaobowl.jpeg",
+    "ingredients": [
+      "SALMÃO CURADO",
+      "GUACAMOLE",
+      "COALHADA",
+      "RÚCULA",
+      "FATIA DE PÃO LEVAIN"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "VEGAN TOAST",
+    "image": "/images/vegantoast.jpeg",
+    "ingredients": [
+      "RAGU DE COGUMELOS",
+      "HOMUS",
+      "TOMATE CONFIT",
+      "MANJERICÃO"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "SANDUÍCHE CAPRESE",
+    "image": "/images/sanduichecaprese.jpeg",
+    "ingredients": [
+      "PÃO BANGUELA",
+      "STRACIATELLA",
+      "TOMATE CEREJA",
+      "PESTO DE MANJERICÃO"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "SALADA CEASAR",
+    "image": "/images/saladaceasar.jpeg",
+    "ingredients": [
+      "MIX DE FOLHAS",
+      "PEITO DE FRANGO",
+      "PASTRAMI",
+      "MOLHO CEASAR",
+      "CROUTONS",
+      "PARMESÃO"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "TOAST SALMÃO",
+    "image": "/images/toastsalmao.jpeg",
+    "ingredients": [
+      "SALMÃO CURADO",
+      "COALHADA SÍRIA",
+      "CREME DE AVOCADO",
+      "PICLES DE BETERRABA"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "SANDUÍCHE PASTRAMI",
+    "image": "/images/sanduichepastrami.jpeg",
+    "ingredients": [
+      "BRIOCHE",
+      "PASTRAMI",
+      "MAIONESE DE DIJON",
+      "QUEIJO GOUDA",
+      "PICLES DE PEPINO"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "PÃO DE QUEIJO",
+    "image": "/images/paodequeijo.jpeg",
+    "ingredients": [
+      "3 UNIDADES DE PÃO DE QUEIJO",
+      "GELEIA DA CASA (RAMEKIN)",
+      "REQUEIJÃO"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "MISTO QUENTE",
+    "image": "/images/mistoquente.jpeg",
+    "ingredients": [
+      "FATIA DE PÃO LEVAIN",
+      "REQUEIJÃO",
+      "QUEIJO MUÇARELA",
+      "PRESUNTO"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "PÃO NA CHAPA CREMOSO",
+    "image": "/images/paonachapacremoso.jpeg",
+    "ingredients": [
+      "FATIA DE PÃO LEVAIN",
+      "REQUEIJÃO (CHAPEADO PARA FORMAR CROSTA)"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "OVOS MEXIDOS CREMOSOS",
+    "image": "/images/ovosmexidoscremosos.jpeg",
+    "ingredients": [
+      "FATIA DE PÃO LEVAIN",
+      "REQUEIJÃO",
+      "CIBOULETTE",
+      "TOMATE CEREJA",
+      "OVOS MEXIDOS"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "HOMUS DO CASA",
+    "image": "/images/homusdocasa.jpeg",
+    "ingredients": [
+      "HOMUS",
+      "MIX PICLES (CEBOLA, ABROBINHA, PICLES)",
+      "AZEITONAS",
+      "PÃO DA CASA"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "PANQUECA DE MORANGO COM PISTACHE",
+    "image": "/images/panquecademorangocompistache.jpeg",
+    "ingredients": [
+      "MORANGO",
+      "GELEIA DE MORANGO",
+      "CALDA DE PISTACHE"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "PANQUECA DE BANANA E CARAMELO",
+    "image": "/images/panquecadecaramelo.jpeg",
+    "ingredients": [
+      "BANANA",
+      "CARAMELO SALGADO"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "FUSILLI AO MOLHO",
+    "image": "/images/fusilliaomolho.jpeg",
+    "ingredients": [
+      "MOLHO POMODO OU MOLHO BRANCO",
+      "FUSILLI"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "FUSILLI COM FRANGO",
+    "image": "/images/fusillicomfrango.jpeg",
+    "ingredients": [
+      "FUSILLI",
+      "TIRAS DE FRANGO",
+      "MOLHO BRANCO OU POMODORO"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "MINEIRINHO",
+    "image": "/images/mineirinho.jpeg",
+    "ingredients": [
+      "3 UNIDADES PÃO DE QUEIJO",
+      "REQUEIJÃO",
+      "GELEIA DO DIA",
+      "SALADA DE FRUTAS COM IOGURTE",
+      "GRANOLA DA CASA",
+      "GARRAFA DE CAFÉ COADO"
+    ]
+  }
+]
